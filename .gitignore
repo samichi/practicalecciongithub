@@ -1,8 +1,2 @@
-#a comment this is ignore
-*.sh                #no .sh files
-!exception.sh       #track only this .sh
-/ignore             #ignore the root ignore file, not subdir/ignore
-build/              #ignore all files in the build/ directory
-doc/*.txt           #ignore doc/all txt, but not doc/server/*.txt that's an example     
-  
+
 
